@@ -1,6 +1,6 @@
 {
   "name": "try-npx-scripts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create typescript libraries in no time",
   "main": "index.js",
   "bin": {
