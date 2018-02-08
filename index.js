@@ -1,2 +1,2 @@
 console.log('yay')
-console.log(process.cwd)
+console.log(process.cwd())
