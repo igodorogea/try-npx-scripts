@@ -1,0 +1,22 @@
+{
+  "name": "try-npx-scripts",
+  "version": "1.0.0",
+  "description": "Create typescript libraries in no time",
+  "main": "index.js",
+  "bin": {
+    "try-npx-scripts": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/igodorogea/try-npx-scripts.git"
+  },
+  "author": "Ivan Godorogea <igodorogea@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igodorogea/try-npx-scripts/issues"
+  },
+  "homepage": "https://github.com/igodorogea/try-npx-scripts#readme"
+}
